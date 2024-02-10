@@ -7,5 +7,6 @@ print(sys.getsizeof(5)*len(l))
 
 array = np.array(1000)
 print(array.size * array.itemsize)
+print('brucelee')
 
 
